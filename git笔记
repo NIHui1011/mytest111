@@ -1,0 +1,8 @@
+git clone	//克隆仓库
+git add		//添加到缓存区
+git commit	//修改本地库
+git push	//上传到git上
+git pull	//从git上update
+git log		//git上push提交记录
+git reflog	//git上所有操作记录
+git reset —-hard 23123123123   //回退版本
