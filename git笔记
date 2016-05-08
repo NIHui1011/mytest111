@@ -6,3 +6,5 @@ git pull	//从git上update
 git log		//git上push提交记录
 git reflog	//git上所有操作记录
 git reset —-hard 23123123123   //回退版本
+
+relese 版本发布
